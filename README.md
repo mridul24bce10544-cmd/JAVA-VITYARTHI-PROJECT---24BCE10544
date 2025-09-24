@@ -22,7 +22,6 @@ This project demonstrates Object-Oriented Programming (OOP), Java SE
 APIs (Streams, NIO.2, Date/Time), and design patterns such as Singleton
 and Builder.
 
-------------------------------------------------------------------------
 
 ## How to Run
 
@@ -44,7 +43,6 @@ and Builder.
 
 4.  Or import into Eclipse IDE → New Java Project → Run Main class.
 
-------------------------------------------------------------------------
 
 ## Evolution of Java
 
@@ -55,13 +53,11 @@ and Builder.
 -   2017 onwards: Java 9--17 added modules, var, records, sealed
     classes, and pattern matching.
 
-------------------------------------------------------------------------
 
 ## Java Editions
 
-  -------------------------------------------------------------------------------
   Edition              Purpose                      Example Use
-  -------------------- ---------------------------- -----------------------------
+
   Java ME              Lightweight apps for         Feature phones, IoT
                        embedded/mobile devices      
 
@@ -70,9 +66,7 @@ and Builder.
 
   Java EE (Jakarta EE) Enterprise/web/distributed   Banking systems, e-commerce
                        systems                      
-  -------------------------------------------------------------------------------
 
-------------------------------------------------------------------------
 
 ## Java Architecture
 
@@ -83,7 +77,6 @@ and Builder.
 
 Flow: Source Code → Compiler → Bytecode → JVM → Execution
 
-------------------------------------------------------------------------
 
 ## Installation on Windows
 
@@ -100,13 +93,11 @@ Flow: Source Code → Compiler → Bytecode → JVM → Execution
 4.  In Eclipse IDE: Create a new Java Project, add source folder, and
     run Main class.
 
-------------------------------------------------------------------------
 
 ## Mapping: Syllabus Topics to Project
 
-  -----------------------------------------------------------------------
   Topic                           Example
-  ------------------------------- ---------------------------------------
+  
   Encapsulation                   Student class with private fields and
                                   getters/setters
 
@@ -136,9 +127,6 @@ Flow: Source Code → Compiler → Bytecode → JVM → Execution
   Recursion                       Recursive backup size computation
 
   Assertions                      Enforcing ID non-null and credit limits
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 ## Usage Examples
 
@@ -148,7 +136,6 @@ Flow: Source Code → Compiler → Bytecode → JVM → Execution
 -   Export Data: Creates CSV files in /exports.\
 -   Backup: Copies exports into /backup/yyyyMMdd_HHmmss.
 
-------------------------------------------------------------------------
 
 ## Notes
 
@@ -162,8 +149,6 @@ Flow: Source Code → Compiler → Bytecode → JVM → Execution
 
 -   Errors vs Exceptions explained in comments and documentation.
 
-------------------------------------------------------------------------
-
 ## Deliverables
 
 -   Source Code (organized into packages).\
@@ -173,7 +158,6 @@ Flow: Source Code → Compiler → Bytecode → JVM → Execution
 -   Sample test-data CSVs.\
 -   Optional demo video link.
 
-------------------------------------------------------------------------
 
 ## Acknowledgements
 
